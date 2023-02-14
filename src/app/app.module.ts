@@ -20,3 +20,5 @@ import { SwiperModule } from 'swiper/angular';
   bootstrap: [AppComponent],
 })
 export class AppModule {}
+
+

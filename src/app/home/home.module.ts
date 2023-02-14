@@ -17,4 +17,5 @@ import { SwiperModule } from 'swiper/angular';
   ],
   declarations: [HomePage]
 })
+
 export class HomePageModule {}
