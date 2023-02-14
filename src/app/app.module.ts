@@ -21,4 +21,3 @@ import { SwiperModule } from 'swiper/angular';
 })
 export class AppModule {}
 
-
